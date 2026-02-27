@@ -22,12 +22,12 @@ templates/   → Base config templates
 
 Each printer uses a modular structure:
 
-printer.cfg
- ├── mcu.cfg
- ├── steppers.cfg
- ├── heaters.cfg
- ├── toolhead.cfg
- └── overrides.cfg (local, not version controlled)
+- `printer.cfg`
+  - `mcu.cfg`
+  - `steppers.cfg`
+  - `heaters.cfg`
+  - `toolhead.cfg`
+  - `overrides.cfg` (local, not version controlled)
 
 Shared macros are included from /common.
 
