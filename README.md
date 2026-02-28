@@ -9,6 +9,7 @@ This repository treats each printer as a version-controlled machine asset.
 | Printer | Board | Compute | Status | Path |
 |----------|--------|----------|---------|------|
 | Voron V0 | Manta M8P | CB1 | Production | printers/voron-v0/manta-m8p/cb1 |
+|   TAZ 6  | Archim2 | Ubuntu 24.04.3 LTS VM | Beta testing | 
 
 ## Repository Structure
 
